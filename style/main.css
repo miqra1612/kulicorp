@@ -1,0 +1,45 @@
+.about{
+    color: #778beb;
+}
+
+.smallBox{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color: #f19066;
+    color: white;
+    align-content: center;
+    border-radius: 20pt;
+}
+
+.center{
+    align-content: center;
+}
+
+footer{
+    background-color: #596275;
+    color: white;
+}
+
+.linkFooter{
+    color: white;
+    text-decoration: none;
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.content2{
+    background-color: #d1ccc0;
+    height: fit-content;
+    width: 100%;
+}
+
+.comitment{
+    color: white;
+}
+
+.about3{
+    color: #d8b769;
+}
